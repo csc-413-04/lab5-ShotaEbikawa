@@ -6,9 +6,9 @@ class HomePage extends Component {
     render() {
         return (
             <div>
-                <h1>Home Page</h1>
+                <h1>HOME</h1>
                 <p>
-                    Here is my main page content <Link to="/page1/mail">Mail</Link>
+                   This link redirects to page 1 <Link to="/page1/mail">Mail</Link>
                 </p>
                 <p>
                     <a href="https://reacttraining.com/react-router/web/guides/quick-start">Click me to find out more about routing</a>

@@ -6,7 +6,7 @@ class Mail extends Component {
     render() {
         return (
             <div>
-                <h1>Mail</h1>
+                <h1 style="color:red">Mail</h1>
                 <p>
                     Here is content for page2!
                 </p>
