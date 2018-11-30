@@ -14,7 +14,7 @@ html, body{
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: yellow;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -38,11 +38,12 @@ html, body{
 }
 
 .header {
-  background: #eaeaea;
+  background: yellow;
   height: 80px;
 }
 
 .header h1{
+  color: red;
   display: inline-block;
   float:left;
 }
