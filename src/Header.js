@@ -14,10 +14,10 @@ class Header extends Component {
                             <Link to="/">Home</Link>
                         </li>
                         <li>
-                            <Link to="/page1">Page1</Link>
+                            <Link to="/page1">Page 1</Link>
                         </li>
                         <li>
-                            <Link to="/page2/">Page2</Link>
+                            <Link to="/page2/">Page 2</Link>
                         </li>
                     </ul>
                 </nav>
